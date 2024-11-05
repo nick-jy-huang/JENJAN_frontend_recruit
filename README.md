@@ -1,4 +1,7 @@
 ## JENJAN Frontend Recruit
+
+![image](https://github.com/user-attachments/assets/66467a28-79ca-4f64-8b29-483b7cabfcf9)
+
 ### 題目要求
   * 依照 Figma 畫面製作相應 UI 及功能
   * 製作 UI 1-1、1-2 (相似度盡可能高)
